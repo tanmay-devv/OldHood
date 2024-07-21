@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/round_home_24"
+        android:title="Home" />
+
+
+
+    <item
+        android:id="@+id/medication"
+        android:icon="@drawable/round_medication_24"
+        android:title="Medication" />
+
+
+
+    <item
+        android:id="@+id/emergency"
+        android:icon="@drawable/round_contact_emergency_24"
+        android:title="Emergency" />
+
+
+
+
+    <item
+        android:id="@+id/delivery"
+        android:icon="@drawable/round_delivery_dining_24"
+        android:title="Delivery" />
+
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/round_chat_bubble_24"
+        android:title="Chat" />
+
+
+</menu>

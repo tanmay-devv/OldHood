@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">OldHood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fragment">Hello Fragment!</string>
+    <string name="hello">hello</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="todo">TODO</string>
+    <string name="delete_all">Delete All</string>
+    <string name="john">John</string>
+    <string name="Alisha">Alisha\n</string>
+    <string name="TODO1">TODO</string>
+    <string name="todo1">TODO</string>
 </resources>
