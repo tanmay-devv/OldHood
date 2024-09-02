@@ -22,7 +22,7 @@ detailed working would be updated soon!
 ![Screenshot from 2024-09-02 22-27-13](https://github.com/user-attachments/assets/de25c26c-3bb5-43df-8ad2-9007f0a27073)
 
 ## Delivery
-![Screenshot from 2024-09-02 22-27-13](https://github.com/user-attachments/assets/863353ec-146d-4435-b8c0-9ab42f2f99fc)
+![Screenshot from 2024-09-02 22-27-25](https://github.com/user-attachments/assets/f2ffdfea-a22d-46f0-bab7-6b6a50f24418)
 
 ## Chat
 ![Screenshot from 2024-09-02 22-27-35](https://github.com/user-attachments/assets/a96c36d0-edc6-4c48-87e9-3e83e8dcf145)
